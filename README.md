@@ -28,7 +28,7 @@ Welcome to Finuverse, the next-generation Web3 marketplace for digital finance e
 - 🔧 Smart Contract (Backend) : [View Code](https://github.com/yebology/finuverse-smartcontract.git)
 - 📊 Pitch Deck : [View File](https://drive.google.com/file/d/1HkCIEuSrc9vi_o-VNcU1avmtF3IMcSDN/view?usp=sharing)
 - 📜 Contract Address : [View on Solana Explorer](https://explorer.solana.com/address/4DYP8c9XLTW88FrfPkJ1F1Ak4hcHLQy5kZXFo5QiJuAi?cluster=devnet)
-- 📺 Presentation Video : [Watch Video (Coming Soon)](https://youtu.be/EZU8qUoDEk8)
+- 📺 Presentation Video : [Watch Video](https://youtu.be/EZU8qUoDEk8)
 
 ## 🤝 Contributors
 - 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
